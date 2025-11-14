@@ -36,5 +36,8 @@ The dashboard is designed with two main views:
 
 Feel free to explore the .pdix file and adapt it to your own database.Get interactive Report:https://github.com/hasnaa03/Car-Sales-Analytics-Report/blob/main/Car%20Sales%20Analysis%20Project.pbit
 
-Screenshots
+Screenshots:
 
+https://github.com/hasnaa03/Car-Sales-Analytics-Report/blob/main/Overview.png
+
+https://github.com/hasnaa03/Car-Sales-Analytics-Report/blob/main/Details.png
